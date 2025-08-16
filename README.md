@@ -4,7 +4,7 @@ This project demonstrates how to use **Large Language Models (LLMs)** for analyz
 It is implemented in a Jupyter Notebook (`Document_Analysis_using_LLMs.ipynb`) and can be adapted for different document types such as text, PDFs or reports.
 
 
-## Features
+## Features:
 - Preprocesses and cleans raw document data  
 - Uses LLMs for:
   - Text summarization
@@ -12,11 +12,11 @@ It is implemented in a Jupyter Notebook (`Document_Analysis_using_LLMs.ipynb`) a
   - Information extraction  
 - Extendable for custom datasets
 
-## Streamlit app
+## Streamlit app:
 
 ![demo](https://github.com/HareemFatima5/Document-Analysis-using-LLMs/blob/main/document%20analysis.PNG)
 
-## Installation
+## Installation:
 
 Clone this repository:
 ```bash
