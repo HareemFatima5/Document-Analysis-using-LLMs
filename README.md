@@ -14,7 +14,7 @@ It is implemented in a Jupyter Notebook (`Document_Analysis_using_LLMs.ipynb`) a
 
 ## Streamlit app
 
-![demo]()
+![demo](https://github.com/HareemFatima5/Document-Analysis-using-LLMs/blob/main/document%20analysis.PNG)
 
 ## Installation
 
